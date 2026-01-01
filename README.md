@@ -17,7 +17,8 @@ The Iris dataset contains 150 samples with four numerical features:
 - Categorical Cross-Entropy loss
 
 ## Results
-- Classification accuracy > 95%
+- The Model achieved 100% accuracy.
+- Petal width was the primary identifier.
 - Confusion matrix used for evaluation
 
 ## Files
